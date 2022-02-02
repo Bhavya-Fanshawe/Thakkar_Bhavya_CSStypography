@@ -1,0 +1,68 @@
+/* typography setting */
+
+/* ------h1 60px bold proxima nova------ */
+
+@font-face {
+    font-family:'proxima nova';
+    src: url(proximanova-bold.otf);}
+
+    h1{
+        font-family: Proxima Nova;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 60px;
+        line-height: 62px;}
+
+/* ------h2 39px regular proxima nova------ */
+@font-face {
+    font-family:'proxima nova';
+    src: url(proximanova-regular.otf);}
+
+    h2{
+        font-family: Proxima Nova;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 39.0625px;
+        line-height: 48px;
+    }
+    
+/* ------h3 31px bold proxima nova------ */
+@font-face {
+    font-family:'proxima nova';
+    src: url(proximanova-bold.otf);}
+    
+    h3{
+        font-family: Proxima Nova;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 31px;
+        line-height: 31px;
+    }
+
+    /* ------h4 25px regular proxima nova------ */
+    @font-face {
+        font-family:'proxima nova';
+        src: url(proximanova-regular.otf);}
+        
+        h4{
+            font-family: Proxima Nova;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 25px;
+            line-height: 156.8%;
+            text-align: left;
+
+        }
+
+        /* ------p 16px regular proxima nova------ */
+        @font-face {
+            font-family:'proxima nova';
+            src: url(proximanova-regular.otf);}
+            
+            p{
+                font-family: Proxima Nova;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 143.8%;
+            }
