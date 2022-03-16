@@ -1,1 +1,1 @@
-# Thakkar_Bhavya_CSStypography
+# Thakkar_Bhavya_mediaquery
